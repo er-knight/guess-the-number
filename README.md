@@ -1,2 +1,2 @@
-# guess-the-number
-🔎 "guess the number" game in various programming languages
+## `🔎 guess the number`
+"guess the number" game in various programming languages
