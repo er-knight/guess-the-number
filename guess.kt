@@ -4,8 +4,8 @@ fun main() {
 	println("Guess a number between 1 and 100")
 
 	var guess = 0
-	
-    while (guess != number) {
+
+	while (guess != number) {
 		print("> ")
 		guess = readLine()!!.toInt()
 
