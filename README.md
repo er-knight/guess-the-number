@@ -1,7 +1,7 @@
 ## `🔎 guess the number`
 "guess the number" game in various programming languages
 
-> in this game, program picks a random number between 1 and 100, and asks user to guess it.  
+> program picks a random number between 1 and 100, and asks user to guess it.  
 > for each guess, program gives feedback on the number entered by user, whether it is smaller, larger or equal.
 
 ## `🎯 sample run`
@@ -23,7 +23,7 @@ that's right!
 </b>
 
 ## `💡 trick`
-> a number can be guessed in maximum of `7` turns by applying binary search logic.
+> any random number between 1 to 100 can be guessed in maximum of 7 turns by applying binary search logic.
 
 ## `📚 references`
 - [learn `lua` by writing a "guess the number" game](https://opensource.com/article/20/12/lua-guess-number-game) by [seth kenlon](https://opensource.com/users/seth) on [opensource.com](https://opensource.com)
