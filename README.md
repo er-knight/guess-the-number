@@ -27,5 +27,5 @@ that's right!
 
 ## `📚 references`
 - [learn `lua` by writing a "guess the number" game](https://opensource.com/article/20/12/lua-guess-number-game) by [seth kenlon](https://opensource.com/users/seth) on [opensource.com](https://opensource.com)
-- [learn bash by writing an interactive game](https://opensource.com/article/20/12/learn-bash) by [jim hall](https://opensource.com/users/jim-hall) on [opensource.com](https://opensource.com)
-- [practice coding in groovy by writing a game](https://opensource.com/article/20/12/groovy) by [chris hermansen](https://opensource.com/users/clhermansen) on [opensource.com](https://opensource.com)
+- [learn `bash` by writing an interactive game](https://opensource.com/article/20/12/learn-bash) by [jim hall](https://opensource.com/users/jim-hall) on [opensource.com](https://opensource.com)
+- [practice coding in `groovy` by writing a game](https://opensource.com/article/20/12/groovy) by [chris hermansen](https://opensource.com/users/clhermansen) on [opensource.com](https://opensource.com)
