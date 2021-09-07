@@ -1,27 +1,31 @@
 ## `🔎 guess the number`
 "guess the number" game in various programming languages
 
-> In this game, program picks a random number between 1 and 100, and asks user to guess it. Also program gives feedback on the number entered by user, whether it is smaller, larger or equal.
+> in this game, program picks a random number between 1 and 100, and asks user to guess it.  
+> for each guess, program gives feedback on the number entered by user, whether it is smaller, larger or equal.
 
 ## `🎯 sample run`
 <b>
 
 ```
-Guess a number between 1 and 100
+guess a number between 1 and 100
 > 50
-Too low
+too low!
 > 75
-Too high
+too high!
 > 67
-Too low
+too low!
 > 73
-Too high
+too high!
 > 70
-That's right!
+that's right!
 ```
 </b>
 
+## `💡 trick`
+> a number can be guessed in maximum of `7` turns by applying binary search logic.
+
 ## `📚 references`
-- [Learn Lua by writing a "guess the number" game](https://opensource.com/article/20/12/lua-guess-number-game) by [Seth Kenlon](https://opensource.com/users/seth) on [opensource.com](https://opensource.com)
-- [Learn Bash by writing an interactive game](https://opensource.com/article/20/12/learn-bash) by [Jim Hall](https://opensource.com/users/jim-hall) on [opensource.com](https://opensource.com)
-- [Practice coding in Groovy by writing a game](https://opensource.com/article/20/12/groovy) by [Chris Hermansen](https://opensource.com/users/clhermansen) on [opensource.com](https://opensource.com)
+- [learn `lua` by writing a "guess the number" game](https://opensource.com/article/20/12/lua-guess-number-game) by [seth kenlon](https://opensource.com/users/seth) on [opensource.com](https://opensource.com)
+- [learn bash by writing an interactive game](https://opensource.com/article/20/12/learn-bash) by [jim hall](https://opensource.com/users/jim-hall) on [opensource.com](https://opensource.com)
+- [practice coding in groovy by writing a game](https://opensource.com/article/20/12/groovy) by [chris hermansen](https://opensource.com/users/clhermansen) on [opensource.com](https://opensource.com)

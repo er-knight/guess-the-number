@@ -5,15 +5,14 @@ number = random.randint(1, 100)
 
 guess = 0
 
-print("Guess a number between 1 and 100")
+print("guess a number between 1 and 100")
 
-while guess != number:
+while guess != number :
 	guess = int(input("> "))
-		
-	if guess > number:
-		print("Too high")
-	elif guess < number:
-		print("Too low")
-	else:
-		print("That's right!")
-		break
+
+	if guess < number :
+		print("too low!")
+	elif guess > number :
+		print("too high!")
+
+print("that's right!")

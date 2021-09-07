@@ -7,22 +7,19 @@ int main() {
 
     int number = (rand() % 100) + 1, guess = 0;
 
-    printf("Guess a number between 1 and 100\n");
+    printf("guess a number between 1 and 100\n");
 
     while (guess != number) {
         printf("> ");
         scanf("%d", &guess);
 
-        if (guess > number) {
-            printf("Too high\n");
+        if (guess < number) {
+            printf("too low!\n");
         }
-        else if (guess < number) {
-            printf("Too low\n");
-        }
-        else {
-            printf("That's right!\n");
-            break;
+        else if (guess > number) {
+            printf("too high!\n");
         }
     }
+    printf("that's right!\n");
     return 0;
 }
