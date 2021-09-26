@@ -8,7 +8,7 @@ import (
 
 func main() {
 	rand.Seed(time.Now().UnixNano())
-	number := rand.Intn(100 - 1) + 1
+	number := rand.Intn(100) + 1
 
 	guess := 0
 
